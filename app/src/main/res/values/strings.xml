@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestWork</string>
+    <string name="title_list">Users list</string>
+    <string name="title_detail">User details</string>
+    <string name="title_about">About</string>
+    <string name="about_msg">Тестовое задание для Rentateam</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="error_Loading_data">Error loading data</string>
+    <string name="error">Error</string>
+    <string name="data_is_loading">Data is loading…</string>
+</resources>

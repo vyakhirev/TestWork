@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/usersListFragment"
+        android:icon="@drawable/ic_list"
+        android:title="@string/title_list" />
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="@string/title_about" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_notifications"-->
+<!--        android:icon="@drawable/ic_notifications_black_24dp"-->
+<!--        android:title="@string/title_notifications" />-->
+
+</menu>
