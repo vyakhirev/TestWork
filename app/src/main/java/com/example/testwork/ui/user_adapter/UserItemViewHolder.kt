@@ -14,10 +14,6 @@ RecyclerView.ViewHolder(binding.root) {
     fun bindItems(item: UserItem) {
         binding.firstNameOnListTV.text = item.first_name
         binding.lastNameOnListTV.text = item.last_name
-//        itemView.first_name_onList_TV.setTextColor(Color.parseColor("#0972C5"))
-//        itemView.first_name_onList_TV.text = item.first_name
-//        itemView.last_name_onList_TV.setTextColor(Color.parseColor("#0972C5"))
-//        itemView.last_name_onList_TV.text = item.last_name
     }
 
     companion object {

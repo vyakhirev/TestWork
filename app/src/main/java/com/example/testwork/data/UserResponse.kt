@@ -1,4 +1,6 @@
-package com.example.testwork.domain
+package com.example.testwork.data
+
+import com.example.testwork.domain.UserItem
 
 data class UserResponse (
     var page: Int,
